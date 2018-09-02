@@ -1,4 +1,4 @@
-# Tuscan White Beans
+% Tuscan White Beans
 
 ## Ingredients
 

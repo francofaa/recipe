@@ -1,4 +1,4 @@
-# Mozzarella salad [356 kcal]
+% Mozzarella salad [quick] [356 kcal]
 
 ## Ingredients
 

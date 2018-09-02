@@ -1,4 +1,4 @@
-# Lemon buttercream
+% Lemon buttercream [dessert]
 
 ## Ingredients
 

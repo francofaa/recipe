@@ -1,4 +1,4 @@
-# Ole Jones Lasagna
+% Ole Jones Lasagna [oven]
 
 ## Ingredients
 

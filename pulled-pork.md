@@ -1,4 +1,4 @@
-# Chili Rubbed Pulled Pork [slow cooker]
+% Chili Rubbed Pulled Pork [slow cooker]
 
 ## Ingredients
 

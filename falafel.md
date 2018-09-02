@@ -1,4 +1,4 @@
-# Falafel
+% Falafel [freezable] 
 
 ## Ingredients
 

@@ -1,0 +1,33 @@
+html {
+  line-height: 1.15;
+}
+body {
+  margin: 30px;
+  font-family: monospace;
+}
+
+h1 {
+/*  font-size: 3em;*/
+  font-family: sans-serif;
+  /*transform: rotate(-90deg);
+  margin-left: -1em;
+  margin-top: 2em;
+  position: absolute;*/
+}
+
+h2 {
+  break-after: always;
+  margin: 0;
+  font-size: 1.25em;
+  font-family: sans-serif;
+}
+
+h3 {
+  font-size: 1.1em;
+  font-family: sans-serif;
+  font-style: italic;
+}
+
+ul {
+  padding-left: 2em;
+}

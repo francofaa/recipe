@@ -1,4 +1,4 @@
-# Caesar salad [517 kcal]
+% Caesar salad [quick] [517 kcal]
 
 ## Ingredients
 

@@ -1,4 +1,4 @@
-# Tandoori Chicken Kebabs
+% Tandoori Chicken Kebabs [oven]
 
 ## Ingredients
 

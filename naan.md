@@ -1,4 +1,4 @@
-# Naan
+% Naan [proving]
 
 ## Ingredients 
 

@@ -1,4 +1,4 @@
-# Quick Ramen Bowl
+% Quick Ramen Bowl
 
 ## Ingredients
 

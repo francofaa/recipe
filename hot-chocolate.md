@@ -1,4 +1,4 @@
-# Spanish Hot Chocolate
+% Spanish Hot Chocolate [dessert]
 
 ## Ingredients 
 

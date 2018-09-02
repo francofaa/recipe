@@ -1,4 +1,4 @@
-# Curried Lentils
+% Curried Lentils [boil]
 
 ## Ingredients
     

@@ -1,4 +1,4 @@
-# Quiche
+% Quiche [oven]
 
 ## Ingredients
 

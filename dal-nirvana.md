@@ -1,4 +1,4 @@
-# Dal Nirvana
+% Dal Nirvana [boil]
 
 ## Ingredients
 

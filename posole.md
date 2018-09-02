@@ -1,4 +1,4 @@
-# Posole
+% Posole
 
 ## Ingredients
 

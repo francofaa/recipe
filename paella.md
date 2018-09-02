@@ -1,4 +1,4 @@
-# Seafood Rice Skillet 
+% Seafood Rice Skillet 
 
 ## Ingredients 
 

@@ -1,4 +1,4 @@
-# Crepes
+% Crepes [dessert]
 
 ## Ingredients
 

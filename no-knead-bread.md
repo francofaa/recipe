@@ -1,4 +1,4 @@
-# No-Knead Bread
+% No-Knead Bread [proving] [very long]
 
 ## Ingredients
 

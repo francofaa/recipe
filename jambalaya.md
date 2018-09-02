@@ -1,4 +1,4 @@
-# Jambalaya
+% Jambalaya
 
 ## Ingredients
 

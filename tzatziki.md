@@ -1,4 +1,5 @@
-# Tzatziki 
+% tzatziki [dip]
+
 
 ## Ingredients 
 
@@ -20,3 +21,4 @@
 
 1. Peel cucumbers. Cut lengthwise. Scoop out seeds with spoon. Pat dry with paper towel. Salt and leave on dish drain. Let drain for 15 minutes. 
 2. Put all ingredients into blender.
+

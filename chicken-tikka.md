@@ -1,4 +1,4 @@
-#  Chicken Tikka Masala [slow cooker]
+%  Chicken Tikka Masala [slow cooker]
 
 ## Ingredients
 

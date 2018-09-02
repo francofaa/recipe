@@ -1,4 +1,4 @@
-# Curried Chickpeas with Spinach
+% Curried Chickpeas with Spinach
 
 ## Ingredients
 

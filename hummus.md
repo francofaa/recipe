@@ -1,4 +1,4 @@
-# Hummus
+% Hummus [dip]
 
 ## Ingredients
 - 2 can **chickpeas** (juice of 1 can, drain other) or 1 can chickpeas and 0.25 cup juice

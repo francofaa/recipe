@@ -1,4 +1,4 @@
-# Salsa
+% Salsa [dip]
 
 ## Ingredients
 

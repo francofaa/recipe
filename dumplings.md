@@ -1,4 +1,4 @@
-# Dumples (freezable)
+% Dumples [freezable] [complex]
 
 
 ## Ingredients

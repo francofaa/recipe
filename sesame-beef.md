@@ -1,4 +1,4 @@
-# Sesame Beef [slow cooker]
+% Sesame Beef [slow cooker]
 
 ## Ingredients
 

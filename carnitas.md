@@ -1,4 +1,4 @@
-#  Carnitas [slow cooker]
+%  Carnitas [slow cooker]
 
 ## Ingredients 
 

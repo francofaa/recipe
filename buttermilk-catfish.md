@@ -1,4 +1,4 @@
-# Buttermilk catfish
+% Buttermilk catfish [oven]
 
 ## Ingredients
 
