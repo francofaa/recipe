@@ -7,15 +7,9 @@
 - 2 tbsp / 30 ml **tahini**
 - **garlic** 
 
-### Spices
-- salt 
-- paprika
-- cumin
-
 ## Tools
-
 - blender
 
 ## Instructions
 
-1. Place all ingredients into blender
+1. Blend ingredients. Add layer of additional olive oil and additional paprika on top.
