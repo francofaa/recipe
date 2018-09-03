@@ -1,4 +1,4 @@
-% Caesar salad [quick] [517 kcal]
+# Caesar salad (quick) (517 kcal)
 
 ## Ingredients
 
@@ -8,4 +8,11 @@
 - 2 tbsp caesar dressing
 - 5 tbsp croutons
 - 3 oz chicken 
-- 1/8 cup parmesan 
+- 1/8 cup parmesan
+
+
+
+
+
+
+

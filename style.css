@@ -8,6 +8,7 @@ body {
 
 h1 {
 /*  font-size: 3em;*/
+page-break-before:always;
   font-family: sans-serif;
   /*transform: rotate(-90deg);
   margin-left: -1em;
@@ -30,4 +31,16 @@ h3 {
 
 ul {
   padding-left: 2em;
+}
+
+header {
+  display:none;
+}
+
+@media print 
+{
+  @page { margin: 0; }
+  body  { margin: 1.6cm; }
+  a[href]:after { content: none !important; }
+  img[src]:after { content: none !important; }
 }

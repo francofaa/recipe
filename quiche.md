@@ -1,4 +1,4 @@
-% Quiche [oven]
+# Quiche (oven)
 
 ## Ingredients
 
@@ -21,3 +21,7 @@
 - Add sauteed items to mixture. Add salt and pepper. 
 - Place contents into pie crust tin. Sprinkle cheddar on top. 
 - Bake on 400 degrees for 30 minutes
+
+
+
+

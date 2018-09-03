@@ -1,4 +1,4 @@
-% Posole
+# Posole
 
 ## Ingredients
 
@@ -27,3 +27,7 @@
 - Finally, add the chicken broth, shredded meat, diced chiles, and hominy (drained). Stir to combine and then heat through (about 10 minutes).
 
 - Cut the lime into wedges. Top each bowl a wedge of lime to squeeze over top.
+
+
+
+

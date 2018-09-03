@@ -1,4 +1,4 @@
-% Dumples [freezable] [complex]
+# Dumples (freezable) (complex)
 
 
 ## Ingredients
@@ -24,4 +24,8 @@
 - Add shaoxing wine, sesame oil, soy sauce, white pepper, water
 - Mix, 6-8 minutes, until soft, smooth texture. 
 
-[Wrap and freeze. Boil and pan fry](https://thewoksoflife.com/2013/10/dumpling-recipe-youll-ever-need/)
+(Wrap and freeze. Boil and pan fry)(https://thewoksoflife.com/2013/10/dumpling-recipe-youll-ever-need/)
+
+
+
+

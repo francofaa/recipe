@@ -1,4 +1,4 @@
-% Seafood Rice Skillet 
+# Seafood Rice Skillet 
 
 ## Ingredients 
 
@@ -28,4 +28,12 @@
 - After 15 minutes, add the frozen seafood and frozen peas. Fold the seafood and peas into the skillet, then replace the lid. Let the seafood and peas cook over low heat until the shrimp turn pink (about 5-10 minutes). Stir once half way through to check the seafood buried in the rice for doneness.
 
 - Once the seafood has finished cooking, top the skillet with chopped parsley and serve with lemon wedges. Squeeze the lemon juice over top of the seafood rice just before eating.
+
+
+
+
+
+
+
+
 

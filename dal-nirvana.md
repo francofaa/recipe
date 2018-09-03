@@ -1,4 +1,4 @@
-% Dal Nirvana [boil]
+# Dal Nirvana (boil)
 
 ## Ingredients
 
@@ -22,3 +22,7 @@
 - Add the can of tomatoes and one cup of water. Stir it all together, bring it to a simmer then reduce the heat to low. Put a lid on the pot and let it simmer for half an hour. The mixture should be soft and thick after a half hour. If it is not, continue to simmer, adding more water if it dries out. You want the end product to be thick, not watery.
 
 - Stir in the evaporated milk or cream and garnish with fresh, chopped cilantro. Serve over rice or with naan bread for dipping!
+
+
+
+

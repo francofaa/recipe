@@ -1,4 +1,4 @@
-% Lemon Meringue Pie [dessert]
+# Lemon Meringue Pie (dessert)
 
 ## Ingredients
 

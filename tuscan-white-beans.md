@@ -1,4 +1,4 @@
-% Tuscan White Beans
+# Tuscan White Beans
 
 ## Ingredients
 
@@ -15,4 +15,11 @@
 
 - Saute onion, garlic, red pepper flakes, tomato.
 
-- Rinse beans. Add into mixture. Mash beans up. Add parmesan. 
+- Rinse beans. Add into mixture. Mash beans up. Add parmesan.
+
+
+
+
+
+
+

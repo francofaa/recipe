@@ -1,3 +1,1 @@
 % recipe
-
-Github for recipes

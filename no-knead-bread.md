@@ -1,4 +1,4 @@
-% No-Knead Bread [proving] [very long]
+# No-Knead Bread (proving) (very long)
 
 ## Ingredients
 
@@ -19,3 +19,7 @@
 - Once the bread has risen and the Dutch oven is fully heated, carefully remove the Dutch oven from the oven (it will be EXTREMELY hot). Lift the parchment with the dough straight into the dutch oven and cover it with the lid.
 
 - Return the Dutch oven to the oven and bake for 30 minutes. Carefully remove the lid and bake for another 15-20 minutes, or until the crust is a deep golden brown. Remove the Dutch oven from the oven, lift the bread out by by using the parchment paper, and allow it to cool before cutting open and serving.
+
+
+
+

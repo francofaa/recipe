@@ -1,4 +1,4 @@
-% Spanish Hot Chocolate [dessert]
+# Spanish Hot Chocolate (dessert)
 
 ## Ingredients 
 
@@ -17,4 +17,11 @@
 - Heat water, chocolate, sugar, and milk until chocolate melts
 - Mix water and cornstarch. Add slurry to chocolate. Add rest of ingredients
 - Medium heat until bubbles form. 
-- Reduce heat, 2 minutes, whisk till thick. 
+- Reduce heat, 2 minutes, whisk till thick.
+
+
+
+
+
+
+

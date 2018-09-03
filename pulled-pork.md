@@ -1,4 +1,4 @@
-% Chili Rubbed Pulled Pork [slow cooker]
+# Chili Rubbed Pulled Pork (slow cooker)
 
 ## Ingredients
 
@@ -20,3 +20,7 @@
 - Place the seasoned meat in a slow cooker and cook on high for four hours.
 
 - Carefully lift the meat out of the juices in the slow cooker to a large bowl or dish. Use two forks to shred the meat and remove any large pieces of fat or gristle. Serve immediately or portion and refrigerate or freeze until ready to use.
+
+
+
+

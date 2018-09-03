@@ -1,4 +1,4 @@
-% Jambalaya
+# Jambalaya
 
 ## Ingredients
 
@@ -23,3 +23,7 @@
 - Add crushed tomatoes, chicken stock, rice seasonings, stir to combine. Allow to reach simmer
 - Reduce to medium low, 25-30 minutes, or until rice is cooked. Stir every 5 minutes to prevent burning.
 - Stir in shrimp. Continue to simmer, stirring until shrimp are cooked through and pink.
+
+
+
+

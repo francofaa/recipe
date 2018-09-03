@@ -1,4 +1,4 @@
-%  Chicken Tikka Masala [slow cooker]
+#  Chicken Tikka Masala (slow cooker)
 
 ## Ingredients
 
@@ -21,4 +21,11 @@
 
 - While the chicken is out of the pot, taste the sauce and add any salt or extra garam masala if desired. Once seasoned to your liking, stir in the half and half or cream.
 
-- Finally, return the shredded chicken meat to the pot and stir to combine. Serve the meat and sauce over rice or with flat bread for scooping up the delicious sauce. 
+- Finally, return the shredded chicken meat to the pot and stir to combine. Serve the meat and sauce over rice or with flat bread for scooping up the delicious sauce.
+
+
+
+
+
+
+

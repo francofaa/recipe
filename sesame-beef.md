@@ -1,4 +1,4 @@
-% Sesame Beef [slow cooker]
+# Sesame Beef (slow cooker)
 
 ## Ingredients
 
@@ -21,3 +21,7 @@
 - Place a lid on the slow cooker, and cook on HIGH for four hours or LOW for eight hours. After four hours on high or eight hours on low the beef should be very tender and should shred easily with a fork. If not, replace the lid and cook for 30-60 minutes more.
 
 - Once the beef is tender, it's time to thicken the sauce. Dissolve the cornstarch in 2 tablespoons of water, then pour it into the pot with the beef and cooking liquid. Stir to combine, then allow it to come back up to a simmer, at which point the sauce will thicken just slightly. Turn the heat off and garnish with the sesame seeds and remaining green onions (sliced). Serve over a bed of rice or as part of your favorite meal.
+
+
+
+

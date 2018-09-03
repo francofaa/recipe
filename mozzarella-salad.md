@@ -1,4 +1,4 @@
-% Mozzarella salad [quick] [356 kcal]
+# Mozzarella salad (quick) (356 kcal)
 
 ## Ingredients
 
@@ -7,3 +7,7 @@
 - 5 mozzarella balls 
 - 5 tbsp croutons
 - 1 tbsp olive oil
+
+
+
+

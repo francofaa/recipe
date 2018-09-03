@@ -1,4 +1,4 @@
-% Quick Ramen Bowl
+# Quick Ramen Bowl
 
 ## Ingredients
 
@@ -20,3 +20,7 @@
 - Make a well in the center of the pot and crack the egg into it. Allow the egg to poach in the broth until the whites are solid but the yolk is still runny. Alternatively, you can break the yolk and stir the pot just slightly to yield egg ribbons like in egg drop soup. The water should not be boiling at this point or else your egg will dissolve into such small pieces that it will just give you a cloudy broth.
 
 - Pour the soup into a bowl and serve with a dollop of chili garlic paste on the side.
+
+
+
+

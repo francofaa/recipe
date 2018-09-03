@@ -1,4 +1,4 @@
-% Curried Chickpeas with Spinach
+# Curried Chickpeas with Spinach
 
 ## Ingredients
 
@@ -18,3 +18,7 @@
 - Add the curry powder and continue to sauté with the onion mixture for one minute more. Add about 1/4 cup of water and to the skillet along with the fresh spinach and continue to sauté until the spinach has wilted. The water will help steam and wilt the spinach (no water needed if using frozen spinach).
 
 - Drain and rinse the chickpeas. Add them to the skillet along with the tomato sauce. Stir well to distribute the spices in the sauce and heat through (5 minutes). Serve over rice or with bread.
+
+
+
+

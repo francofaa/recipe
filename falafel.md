@@ -1,4 +1,4 @@
-% Falafel [freezable] 
+# Falafel (freezable) 
 
 ## Ingredients
 
@@ -22,3 +22,7 @@
 - Using a small measuring cup or scoop (about 1/8th cup or 2 Tbsp), form the falafel dough into small patties. If freezing the patties for later, place them on a parchment lined baking sheet so they can freeze without sticking together. The patties can be transferred to an air-tight container or freezer bag for long-term storage once they have frozen through.
 
 - To cook the fresh or frozen patties, heat oil in a skillet (or pot if deep frying) until very hot and shimmering, but not smoking. Cook the patties on each side until deep golden brown and crispy.
+
+
+
+

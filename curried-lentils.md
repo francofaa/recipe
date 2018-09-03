@@ -1,4 +1,4 @@
-% Curried Lentils [boil]
+# Curried Lentils (boil)
 
 ## Ingredients
     
@@ -18,3 +18,7 @@
 2. **Meanwhile**, saute minced garlic, onion, and carrots (about 5 minutes). Add the curry powder and sauté for one minute more.
 
 3. Add lentils and tomato sauce to the skillet. Stir and heat through (about 5 minutes).
+
+
+
+

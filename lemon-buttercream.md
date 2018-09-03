@@ -1,4 +1,4 @@
-% Lemon buttercream [dessert]
+# Lemon buttercream (dessert)
 
 ## Ingredients
 
@@ -13,4 +13,5 @@
 ## Instructions
 
 - Cream butter for 2 minutes. Add confectioners sugar and salt 0.5 cup at a time. Increase speed. 
-- Add juice and heavy cream and rest of ingredients until fluffy and whipped. 
+- Add juice and heavy cream and rest of ingredients until fluffy and whipped. z
+

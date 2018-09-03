@@ -1,4 +1,4 @@
-% Ole Jones Lasagna [oven]
+# Ole Jones Lasagna (oven)
 
 ## Ingredients
 
@@ -18,3 +18,7 @@
 - Meanwhile saute eggplant, onion, and garlic. Add sauce and spinach
 - Place three noodles into dish, layer sauce mixture, and cottage cheese and half of the mozzarella. Layer next three noodles. Cover with rest of mozzarella and cheddar
 - Bake for 45 minutes at 350 degrees
+
+
+
+

@@ -1,4 +1,4 @@
-% Tandoori Chicken Kebabs [oven]
+# Tandoori Chicken Kebabs (oven)
 
 ## Ingredients
 
@@ -21,3 +21,7 @@
 - Finely dice the onion and garlic and peel and grate the ginger. Add the onion, garlic, ginger and the rest of the ingredients to the bag with the chicken. Close the top and mix all of the ingredients well. Place in the refrigerator to marinate at least four hours or over night.
 
 - After marinating, place the chicken strips on skewers and grill (I put two chicken strips per skewer). Place the kebabs on the grill and cook for three minutes. Flip the kebabs and cook for three minutes more to achieve grill marks on both sides.
+
+
+
+
